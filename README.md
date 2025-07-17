@@ -17,7 +17,7 @@
 </head>
 <body>
   <!-- Profile picture in the top-right -->
-  <img src="assets/profile.png" alt="Marcos Angelini" class="profile-pic">
+  <img src="Marcos3.png" alt="Marcos Angelini" class="profile-pic">
 
   <h1>Marcos Esteban Angelini, PhD</h1>
 
